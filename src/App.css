@@ -1,0 +1,229 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: 0;
+
+}
+
+body{
+  height:100vh;
+  width: 100vw;
+  background-color: #F5F9FA ;
+  
+}
+.uxchallenge{
+  padding-left: 26px;
+}
+.navigation{
+  
+  height:5vh;
+  width:100vw;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+a{
+
+   text-decoration: none;
+}
+.content1{
+  height:42vh;
+  width: 100vw;
+  background: rgb(225,255,253);
+background: linear-gradient(180deg, rgba(225,255,253,1) 0%, rgba(254,254,254,1) 100%);
+text-align: center;
+font-size: large;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+.content2{
+  height:53vh;
+  width: 100vw;
+  background-color: #F5F9FA;
+  display:flex;
+  flex-direction:column;
+  
+  
+}
+
+#facebook{
+     height:2.51vh;
+     
+}
+#twitter{
+  height:2.7vh;
+}
+.everything{
+display: flex;
+gap: 10px;
+padding-right: 22.5px;
+}
+
+.third{
+display: flex; 
+justify-content:center; 
+align-items:center;
+gap:20px;
+}
+
+.ECOMMERCE{
+  height: 50vh;
+  width:20vw;
+ border: 5px solid whitesmoke;
+ 
+}
+.Smarthome{
+  height: 50vh;
+  width:20vw;
+ border: 5px solid whitesmoke
+}
+.mini{
+  font-size: small;
+  text-align: center;
+  margin-bottom: 10vh;
+  margin-top: 10vh;
+}
+.line{
+  text-decoration: underline;
+  color:#31A6B3;
+}
+.p{
+  text-align: center;
+  font-size: medium;
+  margin-bottom: 2.5vh;
+  
+}
+.s{
+  font-size:xx-large;
+  margin-top: 0.5vh;
+  margin-bottom: 7vh;
+}
+
+.t{
+  text-decoration: line-through;
+}
+.f ,.t{
+  height: 2.4vh;
+width:auto;
+}
+
+.d1{
+  height:18vh;
+  background: rgb(255,255,255);
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(223,250,252,1) 100%);
+}
+
+.d2{
+  height:25vh;
+  background-color: #FFFFFF;
+}
+
+.s0{
+  background: rgb(255,255,255);
+}
+.s1{
+  height: 18vh;
+  background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(223,250,252,1) 100%);
+}
+.s2{
+  height:25.5vh;
+  background-color:#FFFFFF;
+  margin-top: 1px;
+  
+}
+
+.s3{
+height: 10vh;
+
+background-color:#FFFFFF;
+color: blue;
+justify-content: center;
+text-align: center;
+
+}
+.eco{
+  height:4.5vh;
+  background: rgb(255,255,255);
+}
+.house{
+  height: 4.5vh;
+  
+}
+.eco1{
+  background: rgb(255,255,255);
+  
+}
+.EC{
+  display: flex;
+}
+.topecom{
+  display: flex;
+  color: purple;
+  background: rgb(255,255,255);
+  padding:10px;
+}
+.top{
+  display:flex;
+  color: #F2671D;
+  background: rgb(255,255,255);
+  padding:10px;
+}
+.find{
+  flex-direction: column;
+  display: flex;
+  padding: 15px;
+}
+
+.pets{
+  padding:15px;
+}
+.light{
+  height:2.5vh;
+  
+}
+.mass{
+  display: flex;
+  justify-content: center;
+}
+button{
+  width: 16vw;
+  height:5vh;
+
+color: #d4dedf;
+background-color:white;
+align-content: center;
+display:flex;
+justify-content:center;
+margin-top: 90px;
+padding:15px;
+margin-left: 35px;
+
+}
+.sho{
+  padding-bottom: 7px;
+  padding-left: 16px;
+  padding-top: 10px;
+}
+.co{
+  padding-top: 10px;
+}
+
+.mess{
+  height: 8vh;
+  display: flex;
+  text-align: left;
+  gap: 10px;
+  position: relative;
+  left: 188.4vh;
+  background-color: #F5F9FA;
+}
+#uxchallenge{
+  color: rgb(69, 144, 243);
+}
